@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![snake gif](https://github.com/Tek233/Tek233/blob/output/github-snake-dark.svg)
+
+
+
 <!--
 **Tek233/Tek233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
