@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
   
-![snake gif](https://github.com/Tek233/Tek233/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Tek233/Tek233/blob/output/github-snake.svg)
 
 </div>
 
